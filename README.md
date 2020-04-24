@@ -1,3 +1,3 @@
 # Protfolio
 
-Responsive Portfolio Website [Portfolio](http://sprodduturi.myweb.usf.edu/index.html)
+Responsive [Portfolio Website](http://sprodduturi.myweb.usf.edu/index.html)
